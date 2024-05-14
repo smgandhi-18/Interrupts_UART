@@ -62,5 +62,5 @@ Additionally, it manages counters and handles specific sequences received from t
 
 ## License
 
-This exercise is provided under an open-source license. See the LICENSE file for details.
+This exercise is provided under an open-source license. See the LICENSE file for details. Provide credits to the author(s).
 
